@@ -55,9 +55,9 @@ var otherUrls = [
 	'https://52dh.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://91crdj.net',
 	JumpPage,
-	'https://52crdh.com',
+	'https://91crdj.com',
 	
 ];
 var notices = [
