@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://91crdj.pages.dev',
+	'https://91crdj.github.io/',
 ];
 var foreverUrls = [
 	  'https://91crdj.net',
