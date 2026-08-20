@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://91crdj.github.io/',
 ];
 var foreverUrls = [
-	  'https://91crdj.net',
+	  'https://aicrdj.com',
 	JumpPage,
 	'https://91crdj.com',
 	
